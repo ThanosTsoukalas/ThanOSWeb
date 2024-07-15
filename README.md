@@ -1,3 +1,4 @@
 # ThanOS Web
-This is not yet a stable version. 
+ThanOS is an HTML workspace, designed to be as light as possible for your computer. But remember that things running in a browser (such as an operating system) can't have access to files in your actual OS and have limitations due to memory bandwidth. So, I am not going to roll out a version with file managers or AAA Games. I just made this repository for the fun of iT! Hope you have fun checking it out :)
 
+***Want to run a full version of ThanOS built directly for your computer?** Check out [this repository](https://github.com/ThanosTsoukalas/ThanOS)!
