@@ -1,2 +1,3 @@
-# ThanOSWeb
-ThanOS Web Version
+# ThanOS Web
+This is not yet a stable version. 
+
