@@ -85,11 +85,11 @@ nav::-webkit-scrollbar {
 }
 
 
-.green-boi {
+.systemApp {
 	color: var(--color-fantastic-green);
 }
 
-.green-boi:hover {
+.systemApp:hover {
 	background: var(--color-fantastic-green);
 	color: var(--color-full-white);
 }
