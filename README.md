@@ -7,3 +7,4 @@ ThanOS is an HTML workspace, designed to be as light as possible for your comput
 The sidebar component is borrowed from a tutorial. So many classes have weird names that I am trying to refactor. Please be patient!
 
 
+No longer in development. Check ThanOS Desktop for the latest releases.
